@@ -8,10 +8,11 @@
 
 
 
-PREVIEW : 
+PREVIEW : https://youtu.be/-_IcWyZSSv4
 
 - NPC code from : github.com/Lionh34rt
 
 Dependency's:
+- qb-doorlock
 - Hack : https://github.com/Prime-Script/prime-vangelico/tree/main/assets ( hacking folder )
 - Thermite game : https://github.com/pushkart2/memorygame
